@@ -1,8 +1,0 @@
-{
-  "name": "nvd3",
-  "description": "Nvd3.org charts with Meteor, updated version.",
-  "homepage": "https://github.com/pfafman/meteor-nvd3",
-  "author": "Tim Pfafman <tim@pfafman.com",
-  "version": "0.1.0",
-  "git": "https://github.com/pfafman/meteor-nvd3.git"
-}
