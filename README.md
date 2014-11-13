@@ -1,24 +1,17 @@
  NVD3 Charts for Meteor
 ============================
 
-This was created because it seems there's an error in the other nvd3 packages.
-The bests examples for use is in nvd3.org page.
-
-It is a fork of https://github.com/waitingkuo/meteor-nvd3 and others.
+This is the most recent Meteor package wrapping [nvd3](http://nvd3.org), the d3 charting library. All others have been abandoned: [1](https://github.com/waitingkuo/meteor-nvd3), [2](https://github.com/ouuyeah/nvd3js), [3](https://github.com/bandini84/meteor-nvd3), [4](https://github.com/donskifarrell/meteor-nvd3) and potentially others.
 
 ### Requirements
 * d3
 
+### Installation
 
-### How do I install this?
-1. Install Meteorite `npm install -g meteorite`
-2. Create Your project `mrt create nameproject`
-3. Add meteor d3 `meteor add d3`
-3. Add nvd3js using meteorite `mrt add pfafman:nvd3`
-4. Go graphing.
-
+    meteor add pfafman:nvd3`
 
 ### References
-[Meteor](http://docs.meteor.com/)
-[NVD3](http://nvd3.org/)
-[D3](http://d3js.org)
+
+* [Meteor](http://docs.meteor.com/)
+* [NVD3](http://nvd3.org/)
+* [D3](http://d3js.org)
