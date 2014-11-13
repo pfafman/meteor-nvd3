@@ -8,7 +8,7 @@ This is the most recent Meteor package wrapping [nvd3](http://nvd3.org), the d3 
 
 ### Installation
 
-    meteor add pfafman:nvd3`
+    meteor add pfafman:nvd3
 
 ### References
 
