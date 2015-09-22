@@ -19,6 +19,7 @@ This is the most recent Meteor package wrapping [nvd3](http://nvd3.org), the d3 
 ### References
 
 * [Meteor](http://docs.meteor.com/)
+* [NVD3 More Current](https://github.com/novus/nvd3)
 * [NVD3 Current](https://github.com/nvd3-community/nvd3/)
 * [NVD3 Old](http://nvd3.org/)
 * [D3](http://d3js.org)
