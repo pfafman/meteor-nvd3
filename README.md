@@ -3,7 +3,7 @@
 
 **Note: I believe there is a more [*official version*](https://atmospherejs.com/nvd3/nvd3) now so you might want to start using that.**
 
-This is the most recent Meteor package wrapping [nvd3](http://nvd3.org), the d3 charting library,  based on a maintained branch [nvd3-community/nvd3](https://github.com/nvd3-community/nvd3/).  Currently synced up with version 1.7.1
+This is the most recent Meteor package wrapping [nvd3](http://nvd3.org), the d3 charting library,  based on a maintained branch [nvd3-community/nvd3](https://github.com/nvd3-community/nvd3/).  Currently synced up with version 1.8.1_dev
 
 *Please report bugs to the code [repository](http://liquidpele.github.io/nvd3/) unless it has to do with the packaging, like if I miss updating to a new version.*
 
