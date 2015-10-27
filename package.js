@@ -1,7 +1,7 @@
 Package.describe({
   name: "pfafman:nvd3",
   summary: 'Nvd3.org charts with Meteor, updated version.',
-  version: "1.8.1_1",
+  version: "1.8.1_2",
   git: "https://github.com/pfafman/meteor-nvd3.git"
 });
 
